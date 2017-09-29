@@ -1,0 +1,33 @@
+html {
+    background-color: #FF8C00;
+    font-family: 'PT Sans', sans-serif;
+}
+
+body h1 {
+    color: #663399;
+    font-family: Garamond;
+}
+
+body h2 {
+    color: #FFFFFF;
+}
+
+p {
+    color: #FFFFCC;
+}
+
+#thisCat {
+    border: 7px solid white;
+}
+
+#otherCat {
+    border: 5px solid black;
+}
+
+#diffCat {
+    border: 10px double white;
+}
+
+#lastCat {
+    border: 5px dashed rebeccapurple;
+}
